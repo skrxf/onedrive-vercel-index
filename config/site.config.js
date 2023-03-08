@@ -53,7 +53,11 @@ module.exports = {
   links: [
     {
       name: '小枫云',
-      link: 'portal.xfywz.cn',
+      link: 'https://portal.xfywz.cn',
+    },
+    {
+      name: '小枫云博客',
+      link: 'http://blog.xfywz.cn',
     },
   ],
 
